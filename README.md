@@ -34,7 +34,7 @@ Once this pipeline is complete and stable, the next phase, which will rely on th
 
 1. **Feature Joining:** Writing the final query to join Categories I, II, and III into the single, wide ML training table.
 
-2. **Labeling:** Defining the target variable ($\text{Is\_Informed\_Trader}$) based on post-trade P&L analysis.
+2. **Labeling:** Defining the target variable Is Informed Trader based on post-trade P&L analysis.
 
 3. **Backtesting & ML:** Training and validating the model using a time-series rolling window approach.
 
